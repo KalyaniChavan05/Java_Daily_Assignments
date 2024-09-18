@@ -9,6 +9,5 @@ class Assign1
 			System.out.println(":" + n*n );
 			n++;
 		}
-
 	}
 }
